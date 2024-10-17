@@ -1,0 +1,102 @@
+2024/10/17 10:11:56,367 [INFO] ChekcStr - Substring result: 00111
+2024/10/17 10:11:56,372 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:11:56,372 [INFO] ChekcStr - Substring result: 100111
+2024/10/17 10:11:56,373 [INFO] ChekcStr - Result Value: 100111
+2024/10/17 10:11:56,373 [INFO] ChekcStr - End of conversion
+2024/10/17 10:11:56,376 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Method Result: 97
+2024/10/17 10:11:56,377 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Returns empty
+2024/10/17 10:11:56,377 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:11:56,378 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:11:56,378 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:11:56,378 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:11:56,378 [INFO] ChekcStr - Substring result: 0011
+2024/10/17 10:11:56,378 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:11:56,378 [INFO] ChekcStr - Substring result: 00011
+2024/10/17 10:11:56,378 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:11:56,378 [INFO] ChekcStr - Substring result: 000011
+2024/10/17 10:11:56,378 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:11:56,378 [INFO] ChekcStr - Substring result: 1000011
+2024/10/17 10:11:56,379 [INFO] ChekcStr - Result Value: 1000011
+2024/10/17 10:11:56,379 [INFO] ChekcStr - End of conversion
+2024/10/17 10:11:56,382 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,383 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,383 [INFO] ChekcStr - Returns 0
+2024/10/17 10:11:56,386 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,387 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,390 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,391 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Method Result: 59
+2024/10/17 10:11:56,392 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Method Result: 108
+2024/10/17 10:11:56,392 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Method Result: 157
+2024/10/17 10:11:56,392 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,392 [INFO] ChekcStr - Method Result: 206
+2024/10/17 10:11:56,393 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,393 [INFO] ChekcStr - Method Result: 254
+2024/10/17 10:11:56,393 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,393 [INFO] ChekcStr - Method Result: 302
+2024/10/17 10:11:56,393 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,393 [INFO] ChekcStr - Method Result: 350
+2024/10/17 10:11:56,393 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,393 [INFO] ChekcStr - Method Result: 399
+2024/10/17 10:11:56,393 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,393 [INFO] ChekcStr - Method Result: 409
+2024/10/17 10:11:56,393 [INFO] ChekcStr - End of total length of binary numbers from string
+2024/10/17 10:11:56,397 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,397 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,397 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,401 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,401 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,401 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,404 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,404 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,405 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,406 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,407 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,407 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,408 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,409 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,409 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,410 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,410 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,410 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,413 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,413 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,413 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,415 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,415 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,415 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,416 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,416 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,416 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,418 [INFO] ChekcStr - Object created.
+2024/10/17 10:11:56,418 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,418 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:11:56,418 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:11:56,418 [INFO] ChekcStr - Method Result: 97
+2024/10/17 10:11:56,419 [INFO] ChekcStr - End of total length of binary numbers from string

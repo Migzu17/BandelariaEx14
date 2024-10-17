@@ -1,0 +1,150 @@
+2024/10/17 10:10:34,778 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,781 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,781 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,782 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:10:34,783 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,783 [INFO] ChekcStr - Substring result: 0011
+2024/10/17 10:10:34,783 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,783 [INFO] ChekcStr - Substring result: 10011
+2024/10/17 10:10:34,783 [INFO] ChekcStr - Substring result: 010011
+2024/10/17 10:10:34,784 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,784 [INFO] ChekcStr - Result Value: 010011
+2024/10/17 10:10:34,784 [INFO] ChekcStr - End of conversion
+2024/10/17 10:10:34,787 [INFO] ChekcStr - Object created.
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,788 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:10:34,788 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,789 [INFO] ChekcStr - Substring result: 0011
+2024/10/17 10:10:34,789 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,789 [INFO] ChekcStr - Substring result: 10011
+2024/10/17 10:10:34,789 [INFO] ChekcStr - Substring result: 110011
+2024/10/17 10:10:34,789 [INFO] ChekcStr - Result Value: 110011
+2024/10/17 10:10:34,789 [INFO] ChekcStr - End of conversion
+2024/10/17 10:10:34,791 [INFO] ChekcStr - Object created.
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,792 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:10:34,793 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Substring result: 1011
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Substring result: 01011
+2024/10/17 10:10:34,793 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Substring result: 001011
+2024/10/17 10:10:34,793 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,793 [INFO] ChekcStr - Result Value: 001011
+2024/10/17 10:10:34,794 [INFO] ChekcStr - End of conversion
+2024/10/17 10:10:34,797 [INFO] ChekcStr - Object created.
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:10:34,798 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Substring result: 1011
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Substring result: 01011
+2024/10/17 10:10:34,798 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Substring result: 101011
+2024/10/17 10:10:34,798 [INFO] ChekcStr - Result Value: 101011
+2024/10/17 10:10:34,798 [INFO] ChekcStr - End of conversion
+2024/10/17 10:10:34,801 [INFO] ChekcStr - Object created.
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:10:34,802 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Substring result: 1011
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Substring result: 11011
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Substring result: 011011
+2024/10/17 10:10:34,802 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,802 [INFO] ChekcStr - Result Value: 011011
+2024/10/17 10:10:34,802 [INFO] ChekcStr - End of conversion
+2024/10/17 10:10:34,805 [INFO] ChekcStr - Object created.
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,806 [INFO] ChekcStr - Substring result: 011
+2024/10/17 10:10:34,806 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,807 [INFO] ChekcStr - Substring result: 1011
+2024/10/17 10:10:34,807 [INFO] ChekcStr - Substring result: 11011
+2024/10/17 10:10:34,807 [INFO] ChekcStr - Substring result: 111011
+2024/10/17 10:10:34,807 [INFO] ChekcStr - Result Value: 111011
+2024/10/17 10:10:34,807 [INFO] ChekcStr - End of conversion
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Object created.
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of conversion
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of total length of binary numbers from string
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Returns the character as a number
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Start of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Returns empty
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Substring result: 1
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Substring result: 11
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Substring result: 111
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Substring result: 0111
+2024/10/17 10:10:34,810 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,810 [INFO] ChekcStr - Substring result: 00111
+2024/10/17 10:10:34,810 [INFO] ChekcStr - End of binarise algorithm
+2024/10/17 10:10:34,811 [INFO] ChekcStr - Substring result: 000111
+2024/10/17 10:10:34,811 [INFO] ChekcStr - End of binarise algorithm
