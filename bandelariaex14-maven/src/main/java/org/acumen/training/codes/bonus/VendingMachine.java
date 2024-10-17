@@ -1,10 +1,16 @@
 package org.acumen.training.codes.bonus;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
 public class VendingMachine {
+	@SuppressWarnings("unused")
 	private int totValue;
 	private int currValue;
 	private boolean enabled;
 	private static final int COST = 75;
+	
+	private static final Logger LOGGER = LogManager.getLogger("FLOG");
 
 	public VendingMachine() {
 		totValue = 0;
@@ -15,23 +21,23 @@ public class VendingMachine {
 	public void insert(Coin coin) {
 		int value = coin.getValue();
 		if (value == 0) {
-			System.err.println("illegal value");
+			//System.err.println("illegal value");
+			LOGGER.error("illegal value");
 		} else {
 			currValue += value;
-			System.out.print("Current value = " + currValue);
+			LOGGER.info("Current value = {}", currValue);
 			if (currValue >= COST) {
 				enabled = true;
-				System.out.println(" (sufficient credit)");
-			} else
-				System.out.println("");
+				LOGGER.info(" (sufficient credit)");
+			}
 		}
 	}
 
 	public void returnCoins() {
 		if (currValue == 0) {
-			System.err.println("no coins to return");
+			LOGGER.error("no coins to return");
 		} else {
-			System.out.println("Take your coins");
+			LOGGER.info("Take your coins");
 			currValue = 0;
 			enabled = false;
 		}
@@ -39,16 +45,19 @@ public class VendingMachine {
 
 	public void vend() throws Exception {
 		if (enabled) {
-			System.out.println("Get your drink");
+			LOGGER.info("Get your drink");
 			totValue += COST;
 			currValue -= COST;
 			if (currValue == 0)
 				enabled = false;
-			System.out.println("Current value = " + currValue);
+			LOGGER.info("Current value = {}", currValue);
 		} else {
-			System.out.println("Not enough credit: add " + (COST - currValue));
+			LOGGER.info("Not enough credit: add {}", (COST - currValue));
 		}
-		if (currValue < 0)
-			throw new Exception("Error: negative credit!");
+		if (currValue < 0) {
+			String errMessage = "Error: negative credit!";
+			LOGGER.fatal(errMessage);
+			throw new Exception(errMessage);
+		}
 	}
 }
