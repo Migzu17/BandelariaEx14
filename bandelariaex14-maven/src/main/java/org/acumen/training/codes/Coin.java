@@ -1,4 +1,4 @@
-package org.acumen.training.codes.bonus;
+package org.acumen.training.codes;
 
 public class Coin {
 	public static final int PENNY = 1;

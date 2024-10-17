@@ -1,4 +1,4 @@
-package org.acumen.training.codes.bonus;
+package org.acumen.training.codes;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

@@ -1,7 +1,7 @@
-package org.acumen.training.codes.bonus.test;
+package org.acumen.training.codes.test;
 
-import org.acumen.training.codes.bonus.Coin;
-import org.acumen.training.codes.bonus.VendingMachine;
+import org.acumen.training.codes.Coin;
+import org.acumen.training.codes.VendingMachine;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
